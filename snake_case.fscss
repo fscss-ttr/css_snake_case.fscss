@@ -1,3 +1,4 @@
+/* using @define */
 @define snake_case{
 str(background_color, "background-color")
 str(text_align, "text-align")
