@@ -18,9 +18,9 @@
       "helpers": []
     },
     "modules": [
-      "./index.fscss"
+      "./snake_case.fscss"
     ],
-    "remote": "./index.fscss"
+    "remote": "./snake_case.fscss"
   },
   "author": {
     "name": "figsh"
