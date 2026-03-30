@@ -1,0 +1,38 @@
+{
+  "name": "camelcase_css",
+  "version": "1.0.0",
+  "description": "FSCSS library for writing CSS properties in snake_case notation, automatically converting to standard kebab-case equivalents. Covers 300+ CSS properties.",
+  "extension": "fscss",
+  "fscss_version": "^1.1.16",
+  "blocked_methods": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fscss-ttr/css_snake_case.fscss"
+  },
+  "bugs": {
+    "url": "https://github.com/fscss-ttr/css_snake_case.fscss/issues"
+  },
+  "file": {
+    "usage": {
+      "directive": "snake_case",
+      "helpers": []
+    },
+    "modules": [
+      "./index.fscss"
+    ],
+    "remote": "./index.fscss"
+  },
+  "author": {
+    "name": "figsh"
+  },
+  "keywords": [
+    "fscss",
+    "css",
+    "snake_case",
+    "kebab-case",
+    "css-properties",
+    "utility",
+    "plugin"
+  ],
+  "license": "MIT"
+}
