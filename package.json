@@ -1,5 +1,5 @@
 {
-  "name": "camelcase_css",
+  "name": "snake_case",
   "version": "1.0.0",
   "description": "FSCSS library for writing CSS properties in snake_case notation, automatically converting to standard kebab-case equivalents. Covers 300+ CSS properties.",
   "extension": "fscss",
